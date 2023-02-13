@@ -1,0 +1,2 @@
+#!/bib/bash
+find ./* -type -print | wc -1
